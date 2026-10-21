@@ -31,7 +31,9 @@ def subtract(a, b):  # Returns the difference of two numbers
 def multiply(a, b):  # Returns the product of two numbers
 def divide(a, b):    # Returns the quotient (includes division-by-zero checks)
 
+
 ## Prerequisites
+
 
 
 ## Installation & Usage
