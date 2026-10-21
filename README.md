@@ -32,13 +32,6 @@ def multiply(a, b):  # Returns the product of two numbers
 def divide(a, b):    # Returns the quotient (includes division-by-zero checks)
 
 
-## Prerequisites
-
-
-
-## Installation & Usage
-
-
 ### 2. Run the Program
 Launch the entry script using python:
 ```bash
