@@ -31,4 +31,32 @@ def subtract(a, b):  # Returns the difference of two numbers
 def multiply(a, b):  # Returns the product of two numbers
 def divide(a, b):    # Returns the quotient (includes division-by-zero checks)
 
+## Prerequisites
+
+
+## Installation & Usage
+
+
+### 2. Run the Program
+Launch the entry script using python:
+```bash
+python main.py
+```
+
+##  Execution Example
+
+```text
+Enter first number: 20
+Enter second number: 5
+
+Choose an operation (1-4):
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+Choice: 4
+
+Result: 4.0
+```
+
 <img width="1229" height="877" alt="Screenshot 2026-10-21 162933" src="https://github.com/user-attachments/assets/0fa7563c-fd39-4bc0-bd64-8dbfb4b61b6f" />
